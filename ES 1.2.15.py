@@ -1,0 +1,10 @@
+#es 1.2.15
+print("웃웃웃웃웃웃웃웃웃웃웃웃웃웃")
+print("웃                     웃")
+print("웃                     웃")
+print("웃                     웃")
+print("웃 FANCULO INFORMATICA 웃")
+print("웃                     웃")
+print("웃                     웃")
+print("웃                     웃")
+print("웃웃웃웃웃웃웃웃웃웃웃웃웃웃")

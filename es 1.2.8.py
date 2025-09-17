@@ -1,0 +1,12 @@
+#es 1.2.8
+print(" ------------------------------")
+print("<   Skibidi No Digas Toilet! >")
+print(" ------------------------------")
+print("         \\" )
+print("          \\")
+print("               _")
+print("              ( )")
+print("             (   )")
+print("            (     )")
+print("           ( o   o )")
+print("          (_________)")
